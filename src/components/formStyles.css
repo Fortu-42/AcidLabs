@@ -46,7 +46,7 @@ input.input-form {
 
 input.input-form:focus {
   outline-width: 0;
-  box-shadow: 0 0 3pt 2pt rgb(235, 235, 235);
+  box-shadow: 0 0 2pt 1pt rgb(235, 235, 235);
 }
 
 input.input-form.error {
@@ -61,7 +61,7 @@ input.input-form.error::placeholder {
 
 input.input-form.error:focus {
   outline-width: 0;
-  box-shadow: 0 0 3pt 2pt rgb(255, 81, 81);
+  box-shadow: 0 0 2pt 1pt rgb(255, 81, 81);
 }
 
 input.input-form.valid {
@@ -70,7 +70,7 @@ input.input-form.valid {
 
 input.input-form.valid:focus {
   outline-width: 0;
-  box-shadow: 0 0 3pt 2pt rgb(57, 177, 74);
+  box-shadow: 0 0 2pt 1pt rgb(57, 177, 74);
 }
 
 button {
