@@ -123,7 +123,7 @@ class Form extends Component {
             {this.state.isFormValid ? (
               <button>Iniciar Sesión</button>
             ) : (
-              "Por favor, complete el formulario correctamente"
+              "Por favor, complete el formulario correctamente para continuar"
             )}
           </div>
         </form>
