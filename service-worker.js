@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/AcidLabs/precache-manifest.55615e180c3db1572d5495fb474ab09e.js"
+  "/AcidLabs/precache-manifest.740059706429db373ee56d2b76baaca9.js"
 );
 
 workbox.clientsClaim();
